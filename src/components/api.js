@@ -1,0 +1,1 @@
+export const api="https://project1-pr7s.onrender.com"
