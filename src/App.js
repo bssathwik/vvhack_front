@@ -34,8 +34,8 @@ function App() {
           <Routes>
           <Route path="/signin" element={<Signin />} />
           <Route path="/signup" element={<SignUp />} />
-          <Route path="/" element={<MyComponent />} />
-          <Route path="/home" element={<Home />} />
+          <Route path="/home" element={<MyComponent />} />
+          <Route path="/" element={<Home />} />
           <Route path="/article" element={<ArticleList/>} />
           <Route path="/videos"element={<Videos/>}/>
           {/* <Route path="/articel" element={<Articles/>} /> */}
