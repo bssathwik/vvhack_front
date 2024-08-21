@@ -1,7 +1,7 @@
 body{
     padding: 0px;
     margin: 0px;
-    background-image: url('C:\Users\sathw\OneDrive\Desktop\project1\project\froentend\public\bg_home.jpg');
+    background-image: url("/public/bg_home.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
